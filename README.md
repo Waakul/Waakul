@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Waakul
-- 👀 I’m interested in coding:
+- 👀 I’m interested in: coding
 - 🌱 I’m currently learning: unity 2d
 - 💞️ I’m looking to collaborate on: friends, scratchaddons.
 - 📫 How to reach me: I'd prefer scratch profile more than email.
